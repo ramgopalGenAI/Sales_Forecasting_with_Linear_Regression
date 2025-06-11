@@ -1,0 +1,15 @@
+Project 2: Student Performance Analytics Dashboard
+Problem Statement:
+Institutions need early warnings for students who might fail or
+drop out.
+Objective:
+Analyze student data to highlight performance trends and risk
+areas.
+Requirements:
+Dataset: marks, attendance, logins
+Calculate averages, correlation, and absentee impact
+Visualize top vs struggling students
+Use bar charts, heatmaps
+Expected Outcome:
+Dashboard to support academic interventions for at-risk
+students.
