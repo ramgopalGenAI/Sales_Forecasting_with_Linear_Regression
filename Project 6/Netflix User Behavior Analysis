@@ -1,0 +1,12 @@
+Project 6: Netflix User Behavior Analysis
+Problem Statement:
+Streaming services want to understand what content users prefer.
+Objective:
+Analyze dataset of Netflix viewing habits to identify genre and
+viewing trends.
+Requirements:
+Dataset: show titles, genres, user viewing history
+Analyze top genres, watch hours per user
+Visualize binge behavior and ratings vs genres
+Expected Outcome:
+Behavioral insights that could guide content suggestions.
