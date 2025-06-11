@@ -1,0 +1,12 @@
+Project 5: E-Commerce Data Insights
+Problem Statement:
+E-commerce platforms need to know what products and users
+drive revenue.
+Objective:
+Explore sales and user data to derive business insights.
+Requirements:
+Dataset: products, users, order quantity, reviews
+Analyze top-selling items, peak hours, user retention
+Visualize using bar, pie, line charts
+Expected Outcome:
+Insights dashboard showing products to stock, users to reward.
