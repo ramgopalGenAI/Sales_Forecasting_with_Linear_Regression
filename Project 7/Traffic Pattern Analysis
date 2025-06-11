@@ -1,0 +1,13 @@
+Project 7: Traffic Pattern Analysis
+Problem Statement:
+Cities face congestion due to poor traffic pattern understanding.
+Objective:
+Use vehicle or GPS data to find peak traffic periods and best
+routes.
+Requirements:
+Dataset: vehicle count/hour or GPS coordinates
+Plot traffic density over time
+Identify anomalies or trends
+Optional: predict peak hours using regression
+Expected Outcome:
+Reports and graphs to guide city planning or route suggestions.
