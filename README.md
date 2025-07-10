@@ -1,4 +1,4 @@
-# NEW LOCATION FOR UPDATED CODE: https://github.com/ramgopalGenAI/Tamizhan-Skills
+# NEW LOCATION FOR UPDATED CODE: https://github.com/ramgopalGenAI/Sales_Forecasting_with_Linear_Regression.git
 
 # 5 Machine Learning Techniques for Forecasting Sales
 
